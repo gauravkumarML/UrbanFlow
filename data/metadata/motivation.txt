@@ -1,0 +1,10 @@
+##Phase 1, Task 1: Air Quality & Urban Health Advisor
+Problem:
+New Yorkers are exposed to fluctuating air quality levels influenced by traffic, weather, and urban density, but they lack accessible, localized insights to make informed daily health and mobility decisions.
+
+Motivation:
+Understanding real-time and long-term air quality trends can empower residents to protect their health, inform city planning, and highlight pollution inequalities across boroughs. By combining environmental and mobility data, we can create actionable, citizen-focused insights.
+
+Expected Outcome:
+An AI-powered dashboard and assistant that visualizes pollution hotspots, predicts clean-air windows, and answers citizen questions about air quality risks—personalized by location, time, and activity.
+
