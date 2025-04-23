@@ -1,4 +1,4 @@
-##Phase 1, Task 1: Air Quality & Urban Health Advisor
+Phase 1, Task 1: Air Quality & Urban Health Advisor
 Problem:
 New Yorkers are exposed to fluctuating air quality levels influenced by traffic, weather, and urban density, but they lack accessible, localized insights to make informed daily health and mobility decisions.
 
